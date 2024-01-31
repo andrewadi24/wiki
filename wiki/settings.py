@@ -28,6 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ["my-site-wiki.gjjqbq.easypanel.host"]
 CSRF_TRUSTED_ORIGINS = ["https://my-site-wiki.gjjqbq.easypanel.host"]
 
+
 # Application definition
 
 INSTALLED_APPS = [
