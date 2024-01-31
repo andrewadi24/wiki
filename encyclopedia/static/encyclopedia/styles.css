@@ -36,3 +36,9 @@ textarea {
 .sidebar h2 {
     margin-top: 5px;
 }
+
+@media (max-width: 768px) {
+    .sidebar {
+        height: fit-content;
+    }
+}
