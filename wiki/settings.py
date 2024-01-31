@@ -26,7 +26,7 @@ SECRET_KEY = '%710m*zic)#0u((qugw#1@e^ty!c)9j04956v@ly(_86n$rg)h'
 DEBUG = True
 
 ALLOWED_HOSTS = ["my-site-wiki.gjjqbq.easypanel.host", "127.0.0.1"]
-CSRF_TRUSTED_ORIGINS = ["https://my-site-social-network.gjjqbq.easypanel.host/login"]
+CSRF_TRUSTED_ORIGINS = ["https://my-site-wiki.gjjqbq.easypanel.host"]
 
 
 # Application definition
